@@ -24,7 +24,6 @@ vulnx/
 ├── reports/                 # Saved HTML scan reports
 ├── screenshots/             # Screenshots of process and results
 ├── LICENSE                  # License file
-└── README.md                # This file
 ```
 
 ---
