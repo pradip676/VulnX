@@ -64,7 +64,7 @@ pip install -r requirements.txt
 2. Go to **Your Account → API Key**
 3. In `vulnx.py`, replace the API key placeholder:
 ```python
-vulners = VulnersApi(api_key="YOUR_ACTUAL_API_KEY")
+vulners = VulnersApi(api_key="YOUR ACTUAL API KEY")
 ```
 
 ---
@@ -96,10 +96,10 @@ Open the file in your browser and click **Export as PDF**.
 
 ## Screenshots
 
-### How to run it
+### How to run it:
 ![Run it](Screenshots/process.png)
 
-### Example Report Output
+### Example Report Output as html file:
 ![Metasploitable2 Scan Report](./Reports/metasploitable2.html.png)
 
 
