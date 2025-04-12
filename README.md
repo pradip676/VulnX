@@ -97,10 +97,11 @@ Open the file in your browser and click **Export as PDF**.
 ## Screenshots
 
 ### How to run it
-![Process](screenshots/process.png)
+![Process](./screenshots/process.png)
 
 ### Example Report Output
-![Metasploitable2 Scan Report](reports/metasploitable2.html.png)
+![Metasploitable2 Scan Report](./reports/metasploitable2.html.png)
+
 
 ---
 
