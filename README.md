@@ -125,7 +125,7 @@ Open the file in your browser and click **Export as PDF**.
 
 **Pradip Sapkota**  
 📧 pradipsapkota676@gmail.com  
-🌐 [GitHub](https://github.com/YOUR_USERNAME)
+🌐 [LinkedIn](https://www.linkedin.com/in/pradipsapkota01/)
 
 ---
 
