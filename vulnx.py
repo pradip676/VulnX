@@ -10,7 +10,7 @@ from vulners import VulnersApi
 signal.signal(signal.SIGPIPE, signal.SIG_DFL)
 
 # Vulners API key setup
-vulners = VulnersApi(api_key="Paste Your Api Key Here")
+vulners = VulnersApi(api_key="9A8DD7PRQDZXPTXSNQECYCQWW0WJIBBL4JN1TX6MMVGOBC9N8TY010W8DO2Q7YN6")  #Replace it with you actual key
 
 def classify_severity(score):
     try:
