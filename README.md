@@ -39,7 +39,7 @@ sudo apt install nmap python3 python3-venv curl -y
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/vulnx.git
+git clone https://github.com/pradip676/vulnx.git
 cd vulnx
 ```
 
